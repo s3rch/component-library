@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="800" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#16a34a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="360" rx="24" fill="url(#g)"/>
+  <g opacity="0.9">
+    <circle cx="120" cy="120" r="70" fill="rgba(255,255,255,0.35)"/>
+    <circle cx="680" cy="240" r="110" fill="rgba(255,255,255,0.18)"/>
+  </g>
+  <text x="48" y="210" fill="white" font-family="ui-sans-serif, system-ui" font-size="48" font-weight="700">
+    Demo Card Image
+  </text>
+  <text x="48" y="262" fill="rgba(255,255,255,0.9)" font-family="ui-sans-serif, system-ui" font-size="24" font-weight="500">
+    Local asset (no network needed)
+  </text>
+</svg>
+
+
+
+
+
+
+
