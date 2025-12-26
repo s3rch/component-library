@@ -42,7 +42,6 @@ pnpm install
 
 ```bash
 cp apps/api/.env.example apps/api/.env
-cp apps/web/.env.example apps/web/.env
 ```
 
 3) Configure MongoDB Atlas (Free Tier):
